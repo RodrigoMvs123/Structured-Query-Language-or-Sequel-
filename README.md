@@ -2,7 +2,7 @@
 
 https://raw.githubusercontent.com/RodrigoMvs123/Structured-Query-Language-or-Sequel-/main/README.md
 
-
+https://github.com/RodrigoMvs123/Structured-Query-Language-or-Sequel-/blame/main/README.md
  
 
 SQL (MySQL + postgreSQL) Installation & Setup Guide for MacOS & Windows
